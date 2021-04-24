@@ -1,0 +1,11 @@
+@mixin fontAds($color, $size) {
+  font-size: $size;
+  font-family: 'Robot' ,sans-serif;
+  color: $color;
+}
+
+@mixin fontMenu($color, $size) {
+  font-size: $size;
+  font-family: 'Robot' ,sans-serif;
+  color: $color;
+}
