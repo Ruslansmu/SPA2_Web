@@ -103,6 +103,7 @@ export default {
 *{
   padding: 0;
   margin: 0;
+  list-style-type: none;
 }
 body{
   background-color: $bgColor;
@@ -260,6 +261,7 @@ body{
       &Text{
         padding: 5px;
         margin-top: 24px;
+        margin-left: 100px;
         @include fontMenu(rgba(0, 0, 0, 0.328974), 15px);
       }
 
@@ -268,7 +270,7 @@ body{
         &Img{
           float: left;
           margin-top: 21px;
-          margin-left: 10px;
+          margin-left: 30px;
           margin-right: 10px;
         }
 

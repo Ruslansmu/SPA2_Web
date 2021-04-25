@@ -42,7 +42,7 @@
 <script>
 
 import Header from "../components/Header.vue"
-import Cards from "../components/Cards.vue"
+import Cards from "../components/Page2/Cards.vue"
 
 export default {
   name: 'Page2',

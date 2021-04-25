@@ -7,11 +7,11 @@
     </div>
     <div class="mainProductsItemDown">
       <div class="mainProductsItemDownBox">
-        <img src="../img/Time.png" alt="" class="mainProductsItemDownBoxImg">
+        <img src="../../img/Time.png" alt="" class="mainProductsItemDownBoxImg">
         <span class="mainProductsItemDownBoxText">Updated 2 hr ago</span>
       </div>
       <a href="#" class="mainProductsItemDownDownload">
-        <img src="../img/Download.png" alt="" class="mainProductsItemDownDownloadImg">
+        <img src="../../img/Download.png" alt="" class="mainProductsItemDownDownloadImg">
         <span class="mainProductsItemDownDownloadText">594 Downloads</span>
       </a>
     </div>
