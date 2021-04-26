@@ -45,7 +45,7 @@ import Header from "../components/Header.vue"
 import Cards from "../components/Page2/Cards.vue"
 
 export default {
-  name: 'Page2',
+  name: 'Pages2',
   components: {
     Header,
     Cards
@@ -56,7 +56,7 @@ export default {
     }
   },
   mounted(){
-    //fetch('https://jsonplaceholder.typicode.com/users')
+
     fetch('https://api.github.com/users')
         .then(response => response.json())
         .then(data => this.Items = data)

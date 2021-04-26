@@ -1,7 +1,7 @@
 import Vue from 'vue'
 import VueRouter from 'vue-router'
-import Page1 from '../views/Page1.vue'
-import Page2 from '../views/Page2.vue'
+import Page1 from '../views/Pages1.vue'
+import Page2 from '../views/Pages2.vue'
 
 Vue.use(VueRouter)
 

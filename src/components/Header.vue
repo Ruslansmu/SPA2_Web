@@ -52,7 +52,7 @@
         <li class="sideNavigationList">
           <a href="products" class="sideNavigationListLink">
             <img src="../img/Products.png" alt="" class="sideNavigationListLinkImg">
-            <p class="sideNavigationListLinkText">Products</p>
+            <p class="sideNavigationListLinkText">UserInfo</p>
           </a>
         </li>
         <li class="sideNavigationList">
